@@ -5,4 +5,4 @@ Implementation of "Learning Concept Interestingness for Identifying Key Structur
  JDK 1.8
  
 # Notes
-This is part of the source code. Ans the complete source files after implementing the necessary code specifications will be uploaded soon.
+The complete version will be uploaded soon after implementing the necessary code specifications.
